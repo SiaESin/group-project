@@ -4,7 +4,7 @@ body {
     margin: 0;
     padding: 0;
     text-align: center;
-    background-color: rgb(217, 234, 240);
+    background-color: rgb(126, 151, 196);
     color: #555;
 }
 header {
@@ -48,4 +48,10 @@ main h2 {
 .my-bio {
     background-color: green;
     color: white;
+}
+
+.my-style {
+    color:deeppink;
+    background-color: black;
+    padding: 3px;
 }
